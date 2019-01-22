@@ -1,0 +1,11 @@
+{
+    "name": "nodejsdemo",
+    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Ben Magazino",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
